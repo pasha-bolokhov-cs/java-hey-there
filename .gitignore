@@ -1,0 +1,10 @@
+# Ignore the entire "bin" and "build" directories
+bin/
+build/
+
+# Ignore any object files 
+*.[oa]
+
+# Ignore editor backups
+*~
+
